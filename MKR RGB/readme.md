@@ -2,32 +2,10 @@
 
 ![Arduino MKR RGB Shield](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/1000x750/f8876a31b63532bbba4e781c30024a0a/a/s/asx00010_iso.jpg)
 
+A good starting point for own experiments with the RGB shield is the [APA102 library](https://github.com/tinue/apa102-pi) by tinue. We are using software SPI because the pins of the Arduino MKR RGB shield are not connected to the SPI interface of the Raspberry Pi. 
 
-##  Configuring I2C
+## Install APA102
 ```bash
-sudo apt-get install -y python-smbus
-sudo apt-get install -y i2c-tools
-``` 
-
-## Enable I2C Interface
-```bash
-sudo raspi-config
---> 5 Interfacing Options
---> P5 I2C
---> YES
-sudo reboot
-``` 
-
-## Testing I2C
-```bash
-sudo i2cdetect -y 1
-```
-![result](https://user-images.githubusercontent.com/3049858/83358509-57099100-a374-11ea-906a-e0b4e86021d5.jpg)
-This shows that two I2C addresses are in use – 0x10, 0x5c and 0x5f 
-
-
-## Install additional libraries
-```bash
-sudo apt install python-pip
-sudo pip install veml6075
+sudo apt install python-pip3
+sudo pip3 install apa102-pi
 ```
