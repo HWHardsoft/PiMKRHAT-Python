@@ -10,7 +10,7 @@ sudo apt-get install -y i2c-tools
 ``` 
 
 ## Install additional libraries
-This program requires the Adafruit Python MAX31855 library:
+This program requires the [Adafruit Python MAX31855](https://github.com/adafruit/Adafruit_Python_MAX31855) library:
 
 ```bash
 sudo apt install python-pip3
