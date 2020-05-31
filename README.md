@@ -1,2 +1,2 @@
 # PiMKRHAT-Python
-Python examples for Arduino MKR bridge HAT for Raspberry Pi
+Python examples for Arduino MKR bridge HAT for Raspberry Pi and different Arduino MKR shields.
