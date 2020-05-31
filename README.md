@@ -1,5 +1,5 @@
 # PiMKRHAT Python code examples
-Python examples for Arduino MKR bridge HAT](https://www.hwhardsoft.de/english/projects/pimkrhat) for Raspberry Pi and different Arduino MKR shields.
+Python examples for [Arduino MKR bridge HAT](https://www.hwhardsoft.de/english/projects/pimkrhat) for Raspberry Pi and different Arduino MKR shields.
 
 ![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
 
