@@ -1,7 +1,13 @@
 # PiMKRHAT Python code examples
 Python examples for Arduino MKR bridge HAT](https://www.hwhardsoft.de/english/projects/pimkrhat) for Raspberry Pi and different Arduino MKR shields.
 
-![AZ-Touch Pi0](https://user-images.githubusercontent.com/3049858/79135621-eef4f080-7daf-11ea-97a6-8760266a50bb.jpg)
+![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
+
+![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
+
+![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
+
+![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
 
 # Installation for MKR ENV
 
