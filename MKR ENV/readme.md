@@ -22,16 +22,11 @@ sudo reboot
 ```bash
 sudo i2cdetect -y 1
 ```
+![result](https://user-images.githubusercontent.com/3049858/83358509-57099100-a374-11ea-906a-e0b4e86021d5.jpg)
 
 
-* replace `xxxxxxxxxxxxxxxxxxxxxxxxx` in  `"WEATHERBIT_IO_KEY": "xxxxxxxxxxxxxxxxxxxxxxxxx"` with your own API key
-* replace `de` in `"WEATHERBIT_COUNTRY": "de"` with your country code
-* replace `en` in `"WEATHERBIT_LANGUAGE": "en"` with your preferred language
-* replace `10178` in `"WEATHERBIT_POSTALCODE": "10178"` with the postal (zip) code of your city (default loaction is Berlin)
-* for language-support, please refer to -> **[Weather.io API Docs](https://www.weatherbit.io/api)**
-
-reboot your Pizero!
+## Install additional libraries
 ```bash
-sudo reboot
+sudo apt install python-pip
+sudo pip install veml6075
 ```
-
