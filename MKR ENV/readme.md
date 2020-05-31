@@ -23,6 +23,7 @@ sudo reboot
 sudo i2cdetect -y 1
 ```
 ![result](https://user-images.githubusercontent.com/3049858/83358509-57099100-a374-11ea-906a-e0b4e86021d5.jpg)
+
 This shows that two I2C addresses are in use – 0x10, 0x5c and 0x5f 
 
 
