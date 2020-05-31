@@ -3,11 +3,11 @@ Python examples for Arduino MKR bridge HAT](https://www.hwhardsoft.de/english/pr
 
 ![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
 
-![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
+![PiMKRHAT](https://user-images.githubusercontent.com/3049858/83356707-1441bc00-a368-11ea-9ce3-ab17fb81a74b.jpg)
 
-![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
+![PiMKRHAT with Raspberry Pi](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
 
-![PiMKRHAT and MKR ENV Shield](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
+![PiMKRHAT and stacked MKR Shields](https://user-images.githubusercontent.com/3049858/83356701-0e4bdb00-a368-11ea-8c06-ff7c251af9ee.jpg)
 
 # Installation for MKR ENV
 
